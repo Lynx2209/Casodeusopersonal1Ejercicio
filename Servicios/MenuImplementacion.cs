@@ -14,7 +14,7 @@ namespace Casodeusopersonal1Ejercicio.Servicios
     {
         public void mensajeBienvenida()
         {
-            string mensaje = "Bienvenido a la pagina para comprar tu carnet o comprar entradas para ver los partidos del Sevilla FC";
+            string mensaje = "Bienvenido a Miljuegos ";
 
             Console.WriteLine(mensaje);
         }
@@ -25,8 +25,11 @@ namespace Casodeusopersonal1Ejercicio.Servicios
 
             Console.WriteLine("##############################");
             Console.WriteLine("0. Cerrar aplicion");
-            Console.WriteLine("1.Comprar Carnet ");
-            Console.WriteLine("2.Comprar entradas");
+            Console.WriteLine("1.Inicio ");
+            Console.WriteLine("2.Juegos");
+            Console.WriteLine("3.Biblioteca");
+            Console.WriteLine("4.Canjear Codigos");
+            Console.WriteLine("5.Perfil");
             Console.WriteLine("##############################");
             Console.WriteLine("Seleccione una opcion: ");
 

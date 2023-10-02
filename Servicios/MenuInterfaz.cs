@@ -13,7 +13,7 @@ namespace Casodeusopersonal1Ejercicio.Servicios
     internal interface MenuInterfaz
     {
         /// <summary>
-        /// Método que mostrara el mensaje de bienvenida a la pagina del SFC.
+        /// Método que mostrara el mensaje de bienvenida a la pagina de Miljuegos.
         /// </summary>
         public void mensajeBienvenida();
         /// <summary>

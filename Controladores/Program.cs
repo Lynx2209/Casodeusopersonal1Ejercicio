@@ -48,8 +48,17 @@ class Programm
                 case 2:
                     Console.WriteLine("[INFO] - Se ejecuta la opcion 2.");
                     break;
+                case 3:
+                    Console.WriteLine("[INFO] - Se ejecuta la opcion 3.");
+                    break;
+                case 4:
+                    Console.WriteLine("[INFO] - Se ejecuta la opcion 4.");
+                    break;
+                case 5:
+                    Console.WriteLine("[INFO] - Se ejecuta la opcion 5.");
+                    break;
 
-                
+
                 default:
                     Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna.");
                     break;
